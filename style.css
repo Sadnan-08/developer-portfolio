@@ -17,6 +17,7 @@ section{
 }
 .half-width img{
     width: 80%;
+    margin-top: 10px;
 }
 .link-button{
     text-decoration: none;
